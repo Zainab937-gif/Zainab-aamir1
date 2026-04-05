@@ -47,7 +47,7 @@ Other sections had better practical exposure, which made me feel at a disadvanta
 ---
 
 ## Machine Learning Project
-
+![a](/assets/a.jpg){: width="150"}
 We developed a **heart attack prediction system** using machine learning.
 
 Due to my partner’s absence, preparation was difficult. However, after rescheduling, we managed to prepare and complete everything successfully.
@@ -55,7 +55,7 @@ Due to my partner’s absence, preparation was difficult. However, after resched
 ---
 
 ## Project Exhibition
-
+![Captur](/assets/Capture.jpg){: width="150"}
 The exhibition was one of the best experiences. Teachers and HOD visited our stall and appreciated our work.
 
 This boosted my confidence and improved my presentation and teamwork skills.
