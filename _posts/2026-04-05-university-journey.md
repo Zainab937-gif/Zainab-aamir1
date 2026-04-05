@@ -7,6 +7,7 @@ tags: [university, programming, python, machine learning, database, github, expe
 
 ## First Day at University
 ![uni](/assets/UET-Faisalabad-Campus.jpg){: width="150"}
+
 My first day at university was a memorable experience, as I went there with my parents. Their presence gave me comfort, but I still felt nervous because it was a completely new environment.
 
 Senior students guided us about classes and departments, which helped reduce confusion. During the first two days, we attended orientation sessions where teachers introduced themselves and motivated us. These sessions helped me feel more confident and prepared.
@@ -48,6 +49,7 @@ Other sections had better practical exposure, which made me feel at a disadvanta
 
 ## Machine Learning Project
 ![a](/assets/a.jpg){: width="150"}
+
 We developed a **heart attack prediction system** using machine learning.
 
 Due to my partner’s absence, preparation was difficult. However, after rescheduling, we managed to prepare and complete everything successfully.
