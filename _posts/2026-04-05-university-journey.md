@@ -55,7 +55,7 @@ Due to my partner’s absence, preparation was difficult. However, after resched
 ---
 
 ## Project Exhibition
-![Capture](/assets/Capture.jpg){: width="150"}
+
 The exhibition was one of the best experiences. Teachers and HOD visited our stall and appreciated our work.
 
 This boosted my confidence and improved my presentation and teamwork skills.
