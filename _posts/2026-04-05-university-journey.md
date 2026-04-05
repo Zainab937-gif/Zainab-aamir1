@@ -14,6 +14,7 @@ Senior students guided us about classes and departments, which helped reduce con
 ---
 
 ## First PF Lab Experience
+
 ![Lab Image](/assets/lab.jpg){: width="150"}
 
 In my first Programming Fundamentals (PF) lab...
