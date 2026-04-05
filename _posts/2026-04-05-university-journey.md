@@ -6,7 +6,7 @@ tags: [university, programming, python, machine learning, database, github, expe
 ---
 
 ## First Day at University
-
+![uni](/assets/UET-Faisalabad-Campus.jpg){: width="150"}
 My first day at university was a memorable experience, as I went there with my parents. Their presence gave me comfort, but I still felt nervous because it was a completely new environment.
 
 Senior students guided us about classes and departments, which helped reduce confusion. During the first two days, we attended orientation sessions where teachers introduced themselves and motivated us. These sessions helped me feel more confident and prepared.
