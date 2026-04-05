@@ -3,16 +3,9 @@ layout: home
 title: Home
 ---
 
-<div class="home-intro">
-
-# 👋 Welcome to My Blog
+## 👋 Welcome to My Blog
 
 Hi, I'm **Zainab** 👩‍💻  
-A passionate student exploring:
+A passionate student exploring Programming, Python, Machine Learning, and Web Development.
 
-- Programming  
-- Python  
-- Machine Learning  
-- Web Development  
-
-</div>
+---
