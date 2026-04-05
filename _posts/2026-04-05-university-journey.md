@@ -15,7 +15,7 @@ Senior students guided us about classes and departments, which helped reduce con
 
 ## First PF Lab Experience
 
-![PF Lab](/assets/images/lab.jpg)
+![PF Lab](/assets/lab.jpg)
 
 In my first Programming Fundamentals (PF) lab...
 In my first Programming Fundamentals (PF) lab, I felt both excited and anxious. We learned how to create and delete folders using CMD and GUI.
