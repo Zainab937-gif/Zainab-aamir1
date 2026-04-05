@@ -37,7 +37,7 @@ This blog is my personal space where I share:
 
 - 📘 What I learn in university  
 - 💡 Coding tutorials  
-- 🛠️ Projects and تجربات  
+- 🛠️ Projects
 - 🌱 My growth journey  
 
 ---
