@@ -1,20 +1,30 @@
+
 ---
 
 layout: post
-title: "My First Day at University "
+title: "My First Programming Fundamentals Lab Experience"
+
+
+categories: [University-Life]
+
+tags: [Programming, Python, Learning, Student-Life, Computer-Engineering, Dr-Bilal-Ahmad]
 ---------------------------------------------------------------
 
-# My First Day at University and Meeting Dr. Bilal Ahmad
 
-My first day at university was both exciting and nervous. I went to the university with my parents because everything was new for me. When I arrived on campus, I saw many students, teachers, and senior students guiding newcomers. Although I felt a little uncomfortable in the beginning, the welcoming environment helped me settle down.
+# My First Programming Fundamentals Lab Experience
+![Lab](/assets/image.jpg){: width="150"}
 
-During the first two days, we attended orientation sessions where teachers introduced themselves and explained university life. They encouraged us to stay focused, work hard, and make the most of our academic journey. These sessions helped me understand the expectations of university studies and reduced much of my nervousness.
+One of the most memorable experiences of my first semester was attending my first Programming Fundamentals (PF) lab. Like many new students, I was excited but also a little nervous because it was my first practical computer lab at the university level.
 
-A few days later, I checked my timetable and learned that Dr. Bilal Ahmad would be teaching some of our courses. At that time, I did not know much about his academic background, but I later discovered that he has expertise in Artificial Intelligence, Machine Learning, and Deep Learning. His practical approach to teaching made learning more interesting and connected classroom concepts with real-world applications.
+When I entered the lab, I sat with my friends, which made me feel more comfortable. During that session, we learned how to create and delete folders using both the graphical user interface (GUI) and the Command Prompt (CMD). Although these tasks may seem simple now, they were completely new to me at that time.
 
-As the semester progressed, I explored the research work of Dr. Bilal Ahmad through his <a href="https://scholar.google.com.au/citations?user=8nZ0jVkAAAAJ&hl=en">Google Scholar profile</a>. It was inspiring to see how machine learning can be applied to solve important real-world problems, especially in the healthcare domain.
+At first, I found it difficult to understand the commands used in CMD. I was not familiar with working through a command-line interface, so I made several mistakes while following the instructions. However, our instructor guided us step by step and encouraged us to practice on our own. After a few attempts, I became more confident and was able to complete the assigned tasks successfully.
 
-Looking back, my first day at university marked the beginning of an important chapter in my life. It introduced me to a new learning environment, new opportunities, and teachers who motivated me to think beyond textbooks. The experience taught me that every academic journey starts with a single step, and that first step was truly memorable.
+This experience taught me that learning programming requires patience and regular practice. Every small task helped me understand computers better and improved my problem-solving skills. It also showed me that mistakes are a natural part of the learning process.
+
+As the semester continued, Dr. Bilal Ahmad emphasized the importance of building strong programming fundamentals before moving to advanced topics. His focus on practical learning motivated students to understand concepts rather than simply memorizing them. I also explored his professional work through his <a href="https://www.linkedin.com/in/drbilalphd/">LinkedIn profile</a>, where I learned more about his contributions to Artificial Intelligence and Machine Learning.
+
+Looking back, my first PF lab was an important step in my academic journey. It helped me overcome my fear of practical work and gave me confidence to learn more advanced programming concepts in the future.
 
 #MLwithDrBilalAhmad
 #DrBilalAhmad
