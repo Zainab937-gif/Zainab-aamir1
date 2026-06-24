@@ -2,11 +2,9 @@
 
 layout: post
 title: "Learning Python and Overcoming Quiz Challenges"
-
 categories: [University-Life]
-
 tags: [Programming, Python, Learning, Student-Life, Computer-Engineering, Dr-Bilal-Ahmad]
--------------------------------------------------------
+-----------------------------------------------------------------------------------------
 
 # Learning Python and Overcoming Quiz Challenges
 
@@ -18,10 +16,8 @@ One challenge our class faced was the difference between theory and lab sessions
 
 After that experience, I started practicing more regularly. I revised class notes, solved programming exercises, and spent extra time understanding concepts that I found difficult. My hard work paid off when I performed much better in the following quizzes. This improvement increased my confidence and motivated me to keep learning.
 
-Throughout the semester, Dr. Bilal Ahmad encouraged students to focus on understanding concepts instead of memorizing solutions. His teaching approach highlighted the importance of problem-solving skills, which are essential in programming and technology-related fields. I also explored some of his academic work through his <a href="https://scholar.google.com.au/citations?user=8nZ0jVkAAAAJ&hl=en">Google Scholar profile</a>, where I learned about his research interests in Artificial Intelligence and Machine Learning.
+Throughout the semester, Dr. Bilal Ahmad encouraged students to focus on understanding concepts instead of memorizing solutions. His teaching approach highlighted the importance of problem-solving skills, which are essential in programming and technology-related fields.
 
 Looking back, learning Python was not always easy, but it taught me an important lesson: success comes through practice, patience, and persistence. Every challenge helped me grow as a student and strengthened my interest in computer science.
 
-#MLwithDrBilalAhmad
-#DrBilalAhmad
-#MLProject
+**Hashtags:** #MLwithDrBilalAhmad #DrBilalAhmad #MLProject
