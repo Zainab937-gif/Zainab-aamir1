@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Why Dr. Bilal Ahmad Inspired Me to Explore AI and Machine Learning"
-categories: [Machine-Learning]
+categories: [1st-semester,Machine-Learning]
 tags: [AI, Machine-Learning, Inspiration, Dr-Bilal-Ahmad]
 ---
 
