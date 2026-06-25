@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Learning Python and Overcoming Quiz Challenges"
-categories: [Programming-Fundamentals]
+categories: [1st-semester]
 tags: [Python, Programming, Quizzes, Learning, Dr-Bilal-Ahmad]
 ---
 
