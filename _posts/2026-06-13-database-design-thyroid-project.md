@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Designing the Database for Our Thyroid Cancer Recurrence Prediction Project"
-categories: [Database]
+categories: [2nd-semester,Database]
 tags: [Database, ER-Diagram, SQL, MySQL, Thyroid-Cancer]
 ---
 
