@@ -1,8 +1,8 @@
 ---
-title: "My First Programming Fundamentals Lab Experience "
-date: 2026-06-02
+layout: post
+title: "My First Programming Fundamentals Lab Experience"
 categories: [Programming-Fundamentals]
-tags: [Programming, Python, Learning, Student-Life, Computer-Engineering, Dr-Bilal-Ahmad]
+tags: [PF-Lab, Programming, Learning, CMD, GUI, Dr-Bilal-Ahmad]
 ---
 ![Lab](/assets/image.jpg)
 
