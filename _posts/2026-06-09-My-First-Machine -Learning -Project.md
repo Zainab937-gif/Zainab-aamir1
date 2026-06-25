@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Building a Heart Attack Prediction Model: My First Machine Learning Project"
-categories: [Machine-Learning]
+categories: [1st-semester,Machine-Learning]
 tags: [Machine-Learning, Heart-Attack-Prediction, AI, Healthcare]
 ---
 
