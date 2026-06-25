@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "My First Programming Fundamentals Lab Experience"
-categories: [Programming-Fundamentals]
+categories: [1st-semester]
 tags: [PF-Lab, Programming, Learning, CMD, GUI, Dr-Bilal-Ahmad]
 ---
 ![Lab](/assets/image.jpg)
