@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Developing a Random Forest Model for Thyroid Cancer Recurrence Prediction"
-categories: [Database]
+categories: [2nd-semester,Database]
 tags: [Machine-Learning, Random-Forest, Thyroid-Cancer, Python]
 ---
 
