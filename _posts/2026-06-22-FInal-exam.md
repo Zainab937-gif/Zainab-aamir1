@@ -9,8 +9,6 @@ tags: [Programming, Python, Learning, Student-Life, Computer-Engineering, Dr-Bil
 
 ---
 
-# Final Exams, Health Challenges, and Achieving an A Grade
-
 The final examination period was one of the most challenging times of my first semester. After completing assignments, projects, lab evaluations, and presentations, it was finally time to appear in the final exams. Unfortunately, during this important period, I became ill, which made studying and preparing for exams much more difficult.
 
 As a day scholar, I travel a considerable distance between my home and the university. Normally, I use public transport, but because of my health condition, my father personally dropped me off and picked me up from the university during the examination days. His support helped me focus on my exams despite feeling unwell, and I am truly grateful for his care and encouragement.
