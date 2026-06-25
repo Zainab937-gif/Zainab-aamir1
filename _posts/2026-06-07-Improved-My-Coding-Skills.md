@@ -2,12 +2,9 @@
 
 layout: post
 title: "How Strict Lab Policies Improved My Coding Skills"
-categories: [University-Life]
-
+categories: [Programming-Fundamentals]
 tags: [Programming, Python, Learning, Student-Life, Computer-Engineering, Dr-Bilal-Ahmad]
-
 ---
-# How Strict Lab Policies Improved My Coding Skills
 
 During one of our Programming Fundamentals lab sessions, we experienced a very different learning environment. Before starting the lab, our instructor announced strict rules for all students. We were not allowed to use mobile phones, laptops, or any online tools during the session. Everyone had to rely completely on their own knowledge and problem-solving abilities.
 
