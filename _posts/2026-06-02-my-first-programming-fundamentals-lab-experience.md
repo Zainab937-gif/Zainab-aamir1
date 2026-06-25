@@ -1,14 +1,12 @@
 ---
 title: "My First Programming Fundamentals Lab Experience "
-date: 2026-06-22
+date: 2026-06-02
 categories: [University-Life]
 
 tags: [Programming, Python, Learning, Student-Life, Computer-Engineering, Dr-Bilal-Ahmad]
 
 ---
-
-# My First Programming Fundamentals Lab Experience
-![Lab](/assets/image.jpg){: width="150"}
+![Lab](/assets/image.jpg)
 
 One of the most memorable experiences of my first semester was attending my first Programming Fundamentals (PF) lab. Like many new students, I was excited but also a little nervous because it was my first practical computer lab at the university level.
 
