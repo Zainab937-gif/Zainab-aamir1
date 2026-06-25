@@ -2,10 +2,8 @@
 
 layout: post
 title: "Learning WordPress, WAMP Server, and MySQL in Database Lab"
-
-categories: [University-Life]
-
-tags: [Programming, Python, Learning, Student-Life, Computer-Engineering, Dr-Bilal-Ahmad]
+categories: [Database]
+tags: [Database, SQL, Lab-Manuals, MySQL]
 
 ---
 
