@@ -1,8 +1,9 @@
 ---
 title: "My First Programming Fundamentals Lab Experience "
 date: 2026-06-22
-categories: [University Life]
-tags: [university, programming, python, machine learning, database, github, experience]
+categories: [University-Life]
+
+tags: [Programming, Python, Learning, Student-Life, Computer-Engineering, Dr-Bilal-Ahmad]
 
 ---
 
