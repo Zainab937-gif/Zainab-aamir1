@@ -8,8 +8,6 @@ tags: [Programming, Python, Learning, Student-Life, Computer-Engineering, Dr-Bil
 
 ---
 
-# Mid-Semester Challenges and Academic Growth
-
 As the semester progressed, the academic workload started increasing. We had regular assignments, quizzes, lab tasks, and class activities that required continuous effort. Managing all these responsibilities was not easy, especially because university life was still new to me. However, this period taught me the importance of time management and consistency.
 
 I focused mainly on improving my Programming Fundamentals skills because I considered it one of the most important subjects of the semester. During lab sessions, our instructor strictly prohibited the use of mobile phones and online tools. At first, these rules seemed difficult, but later I realized that they were helping us become independent learners. We were encouraged to solve problems using our own understanding rather than relying on external assistance.
