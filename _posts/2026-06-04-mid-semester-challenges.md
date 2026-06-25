@@ -2,7 +2,7 @@
 
 layout: post
 title: "Mid-Semester Challenges and Academic Growth"
-categories: [Programming-Fundamentals]
+categories:  [1st-semester]
 tags: [Programming, Python, Learning, Student-Life, Computer-Engineering, Dr-Bilal-Ahmad]
 ---
 
