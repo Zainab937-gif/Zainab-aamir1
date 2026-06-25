@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Challenge of Completing 14 Database Lab Manuals"
-categories: [Database]
+categories: [1st-semester,Database]
 tags: [Database, SQL, Lab-Manuals, MySQL]
 ---
 
