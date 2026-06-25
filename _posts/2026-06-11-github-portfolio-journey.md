@@ -1,11 +1,8 @@
 ---
-
 layout: post
-title: "Why I Started Writing Blog Posts on GitHub"
-
+title: "Why I Started My GitHub Portfolio Website"
 categories: [GitHub-Portfolio]
 tags: [GitHub, Portfolio, Digital-Footprint, Professional-Growth]
-
 ---
 
 
