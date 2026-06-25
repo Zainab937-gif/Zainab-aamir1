@@ -5,6 +5,7 @@ categories:  [2nd-semester]
 tags: [Database, SQL, Lab-Manuals, MySQL]
 ---
 
+
 One of the biggest challenges of this semester was completing the 14 Database lab manuals assigned by Dr. Bilal Ahmad. Although the manuals were very helpful for learning practical database concepts, managing them alongside our other academic responsibilities was not easy.
 
 At that time, we were not only working on database tasks but also handling assignments, quizzes, presentations, and our Thyroid Cancer Recurrence Prediction Project. Balancing all these responsibilities required careful time management. Sometimes we had multiple deadlines in the same week, which made the workload quite stressful.
