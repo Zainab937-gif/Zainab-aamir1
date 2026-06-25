@@ -3,7 +3,6 @@ layout: post
 title: "Building a Heart Attack Prediction Model: My First Machine Learning Project"
 categories: [Machine-Learning]
 tags: [Machine-Learning, Heart-Attack-Prediction, AI, Healthcare]
-
 ---
 
 One of the most challenging yet rewarding experiences of my first semester was working on a machine learning project. Our project focused on developing a Heart Attack Prediction Model, which introduced me to the practical side of Artificial Intelligence and Machine Learning for the first time.
