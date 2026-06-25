@@ -22,6 +22,7 @@ Throughout the semester, Dr. Bilal Ahmad encouraged students to work on meaningf
 
 Although the project was difficult at times, it helped me learn many new concepts and improved my confidence. By the end of the semester, I had a much better understanding of machine learning than when I started. Most importantly, this project inspired me to continue exploring AI and data-driven technologies in the future.
 
+
 #MLwithDrBilalAhmad
 #DrBilalAhmad
 #MLProject
