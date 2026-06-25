@@ -2,7 +2,7 @@
 
 layout: post
 title: "Final Lab Evaluations and Managing Academic Pressure"
-categories: [Programming-Fundamentals]
+categories:  [1st-semester]
 tags: [Programming, Python, Learning, Student-Life, Computer-Engineering, Dr-Bilal-Ahmad]
 ---
 
