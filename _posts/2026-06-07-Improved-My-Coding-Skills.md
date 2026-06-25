@@ -2,7 +2,7 @@
 
 layout: post
 title: "How Strict Lab Policies Improved My Coding Skills"
-categories: [Programming-Fundamentals]
+categories:  [1st-semester]
 tags: [Programming, Python, Learning, Student-Life, Computer-Engineering, Dr-Bilal-Ahmad]
 ---
 
