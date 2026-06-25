@@ -2,7 +2,7 @@
 
 layout: post
 title: "Final Exams, Health Challenges, and Achieving an A Grade"
-categories: [Programming-Fundamentals]
+categories:  [1st-semester]
 tags: [Programming, Python, Learning, Student-Life, Computer-Engineering, Dr-Bilal-Ahmad]
 ---
 
