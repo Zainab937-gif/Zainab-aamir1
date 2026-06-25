@@ -1,10 +1,8 @@
 ---
-
 layout: post
 title: "Learning WordPress, WAMP Server, and MySQL in Database Lab"
-categories: [Database]
+categories: [2nd-semester,Database]
 tags: [Database, SQL, Lab-Manuals, MySQL]
-
 ---
 
 
