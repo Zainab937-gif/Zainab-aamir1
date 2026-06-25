@@ -2,14 +2,9 @@
 
 layout: post
 title: "Final Lab Evaluations and Managing Academic Pressure"
-
-categories: [University-Life]
-
+categories: [Programming-Fundamentals]
 tags: [Programming, Python, Learning, Student-Life, Computer-Engineering, Dr-Bilal-Ahmad]
-
 ---
-
-# Final Lab Evaluations and Managing Academic Pressure
 
 As the final examinations approached, university life became much more demanding. The last week of the semester was especially busy because we had multiple lab evaluations, assignments, and viva sessions to complete. Managing all these responsibilities at the same time was challenging, and many students felt the pressure of upcoming deadlines.
 
