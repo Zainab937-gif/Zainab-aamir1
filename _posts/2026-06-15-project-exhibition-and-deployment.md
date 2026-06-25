@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Project Exhibition and Deployment of Our Thyroid Cancer Prediction System"
-categories: [Database]
+categories: [1st-semester,Database]
 tags: [FastAPI, Web-Development, Project-Exhibition, Thyroid-Cancer, AI]
 ---
 
