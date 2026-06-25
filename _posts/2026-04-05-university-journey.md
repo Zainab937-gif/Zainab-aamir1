@@ -1,9 +1,9 @@
 ---
 title: "My University Journey & Learning Experience"
 date: 2026-04-05
-categories: [University Life]
-tags: [university, programming, python, machine learning, database, github, experience]
----
+categories: [University-Life]
+
+tags: [Programming, Python, Learning, Student-Life, Computer-Engineering, Dr-Bilal-Ahmad]
 
 ## First Day at University
 ![uni](/assets/UET-Faisalabad-Campus.jpg){: width="150"}
