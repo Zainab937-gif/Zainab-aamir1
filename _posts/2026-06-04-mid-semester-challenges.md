@@ -2,10 +2,8 @@
 
 layout: post
 title: "Mid-Semester Challenges and Academic Growth"
-categories: [University-Life]
-
+categories: [Programming-Fundamentals]
 tags: [Programming, Python, Learning, Student-Life, Computer-Engineering, Dr-Bilal-Ahmad]
-
 ---
 
 As the semester progressed, the academic workload started increasing. We had regular assignments, quizzes, lab tasks, and class activities that required continuous effort. Managing all these responsibilities was not easy, especially because university life was still new to me. However, this period taught me the importance of time management and consistency.
