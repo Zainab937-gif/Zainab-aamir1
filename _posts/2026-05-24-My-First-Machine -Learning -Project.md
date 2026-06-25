@@ -5,7 +5,8 @@ title: "Building a Heart Attack Prediction Model: My First Machine Learning Proj
 
 categories: [Leaurning Journey]
 tags: [Programming, Python, Learning, Student-Life, Computer-Engineering, Dr-Bilal-Ahmad]
-------------------------------------------------------------------------------------
+
+---
 
 # Building a Heart Attack Prediction Model: My First Machine Learning Project
 
