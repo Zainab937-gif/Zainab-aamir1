@@ -5,7 +5,6 @@ categories: [2nd-semester,Database]
 tags: [Database, ER-Diagram, SQL, MySQL, Thyroid-Cancer]
 ---
 
-
 After selecting a suitable dataset for our Thyroid Cancer Recurrence Prediction Project, the next step was designing the database. Before creating any machine learning model, we needed a structured way to store and manage patient data. This stage helped me understand the importance of database design in real-world applications.
 
 We started by analyzing the dataset and identifying important entities and attributes. Using this information, we created an Entity Relationship (ER) Diagram to visualize the structure of our database. The ER diagram helped us understand how different pieces of information were connected and how relationships could be established between tables.
