@@ -2,10 +2,8 @@
 layout: post
 title: "Learning Python and Overcoming Quiz Challenges"
 categories: [Programming-Fundamentals]
-tags: [Programming, Python, Learning, Student-Life, Computer-Engineering, Dr-Bilal-Ahmad]
+tags: [Python, Programming, Quizzes, Learning, Dr-Bilal-Ahmad]
 ---
-
-# Learning Python and Overcoming Quiz Challenges
 
 During the first semester, one of the most exciting parts of my Programming Fundamentals course was learning Python. Before joining university, I had heard a lot about programming, but I had never written code myself. Python became my first real programming language, and it opened the door to a completely new world of problem-solving and logical thinking.
 
