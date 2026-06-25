@@ -2,9 +2,10 @@
 
 layout: post
 title: "Building a Heart Attack Prediction Model: My First Machine Learning Project"
+categories: [University-Life]
 
-categories: [Leaurning Journey]
 tags: [Programming, Python, Learning, Student-Life, Computer-Engineering, Dr-Bilal-Ahmad]
+
 
 ---
 
